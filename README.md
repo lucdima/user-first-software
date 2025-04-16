@@ -1,4 +1,5 @@
-# user-first-software
-User First is a software concept established in 2021. The goal is to make software enjoyable to use while having an ethical base, which should respect users and their data in any possible way. This concept can be applied to any kind of software like websites, computer desktop software, mobile applications and videogames.
+# User First Software
+User First is a software development manifesto established in 2021. Its goal is to make software genuinely enjoyable to use, while respecting the user's rights, privacy, and ethical boundaries.
+This approach can be applied to any type of software — including websites, desktop applications, mobile apps, and videogames.
 
-You are welcome to visit the [webstite](https://userfirstsoftware.org/)
+You’re welcome to explore the full manifesto at [userfirstsoftware.org](https://userfirstsoftware.org/)
