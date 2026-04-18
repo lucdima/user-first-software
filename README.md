@@ -3,3 +3,5 @@ User First is a software development manifesto established in 2021. Its goal is 
 This approach can be applied to any type of software — including websites, desktop applications, mobile apps, and videogames.
 
 You’re welcome to explore the full manifesto at [userfirstsoftware.org](https://userfirstsoftware.org/)
+
+
